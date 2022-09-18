@@ -1,0 +1,39 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Nguyễn Trang">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10814</md:content-id>
+    <md:title>Giáo trình Giáo Dục và Nâng cao Sức Khoẻ</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>3a40b439-9fc0-48eb-9585-f9a206ab36d3</md:uuid>
+<md:slug>giao-trinh-giao-duc-va-nang-cao-suc-khoe</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Chương 1 : Hành vi sức khoẻ</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Quá trình thay đổi hành vi sức khoẻ</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chương 2: Phương pháp GDSK</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Phương pháp GDSK trực tiếp  </md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>(Untitled)</md:title>
+              <col:content>                  </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Phương pháp GDSK gián tiếp   </md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
